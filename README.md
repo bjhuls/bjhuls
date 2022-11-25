@@ -2,7 +2,9 @@
 - 👀 I’m looking to go to law school soon!
 - Currently a Software Developer for NISC
 - 💞️ I’m interested in data science & automation for creative problem solving
-- 📫 [How to reach me](https://bjhuls.com/)
+- 📫 <html>
+<a href="https://bjhuls.com/" target="_blank">How to reach me</a>
+</html>
 
 (I just made a new account on my personal email, my old github account was on my undergrad email and I no longer have access to it, hence all the activity in one day)
 
